@@ -1,0 +1,7 @@
+TODO
+----
+
+[ ] - Test driver with other s5pv210 based boards, friendlyarm mini210S 2GB mlc version, friendlyarm  tiny210V2 2GB mlc version
+[ ] - Change function names to properly reflect the ecc levels they're capable of
+[ ] - Test with friendlyarm mini210/Mini210S boards to make sure SLC functionality isn't broken
+[ ] - Test driver with different versions of friendlyarm's superboot.bin bootloader
