@@ -481,7 +481,7 @@ static int s5p_nand_correct_data_8bit(struct mtd_info *mtd, uint8_t *dat, uint8_
 		return -1;
 	}
 
-	printk("s5p-nand: ECC correcting %d error(s)\n", err_count);
+	//printk("s5p-nand: ECC correcting %d error(s)\n", err_count);
 
 	nfeccerl[0] = readl(regs + S5P_NFECCERL0);
 	nfeccerl[1] = readl(regs + S5P_NFECCERL1);
