@@ -1,14 +1,18 @@
 /*
  *  linux/drivers/mtd/nand/s5p_phy_init_ext.c
  *
- *  Copyright (C) 2013, All Rights Reserved.
+ *  Copyright (C) 2013, FriendlyArm http://www.arm9home.net
  *
+ *  Contributions by J. Kent, I. Baker, 2013
+ *  
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 2 of the License, or (at
  * your option) any later version.
  *
+ * Thanks to the following companies for their support:
  *
+ *  http://www.andahammer.com
  *
  * helper functions for s5p_nand_mlc.c
  *
