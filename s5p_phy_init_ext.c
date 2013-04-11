@@ -3,7 +3,9 @@
  *
  *  Copyright (C) 2013, FriendlyArm http://www.arm9home.net
  *
- *  Contributions by J. Kent, I. Baker, 2013
+ *  Contributions by:
+ *  Jeff Kent, jeff@jkent.net 2013
+ *  I. Baker 2013
  *  
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
