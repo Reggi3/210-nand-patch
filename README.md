@@ -10,6 +10,10 @@ the 2013 kernel sources available on baidu.  The s5p_nand_mlc.c driver was origi
 this driver has only been tested with superboot.bin from the Mini210s-20120913.iso, it may or may 
 not work with other versions of superboot although it should be fine.
 
+*update* The driver has been updated to work on all versions of superboot, it's untested as of yet
+but an error had crept into the driver via superboot, as this error has been corrected, any 
+references to superboot from the mini210s-20120913.iso should be ignored!!!
+
 This driver should allow us to start looking at using our own bootloaders and updated kernel 
 versions in the future.
 
